@@ -66,17 +66,14 @@ Task3_Dashboard:
 
 1. Install required libraries:
 
-id="dashrun1"
 pip install dash plotly pandas
 
 2. Run the dashboard:
 
-id="dashrun2"
 python dashboard.py
 
 3. Open in browser:
 
-id="dashrun3"
 http://127.0.0.1:8050/
 
 ## Conclusion
